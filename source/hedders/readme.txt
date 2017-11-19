@@ -3,4 +3,4 @@
 
 ・okokok.h     (オケオケオッケー)
 ・okokok_saw.h (のこぎり波)
-・okokok_saw.h (sin波)
+・okokok_sin.h (sin波)
